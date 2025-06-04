@@ -5,7 +5,7 @@
 
 ##Tecnologias que eu utilizo
 
-< style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="center" style="display: inline_block" src="    https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img align="center" style="display: inline_block" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
