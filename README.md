@@ -2,12 +2,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-carrion/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5515992717403&text&type=phone_number&app_absent=0)
 
-<table>
-  <tr>
-    <td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=thalesmanoel&show_icons=true&theme=default&hide_border=true&hide_title=true"/></td>
-    <td><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmanoel&layout=compact&hide=html&theme=default&hide_border=true&hide_title=true"/></td>
-  </tr>
-</table>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start; justify-content: center; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thalesmanoel&show_icons=true&theme=default&hide_border=true&hide_title=true" height="180" style="flex-shrink: 0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmanoel&layout=compact&hide=html&theme=default&hide_border=true" height="180" style="flex-shrink: 0;" />
+</div>
 
 ## Tecnologias que eu utilizo
 
