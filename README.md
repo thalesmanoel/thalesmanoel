@@ -38,4 +38,4 @@ Aplicação completa com Angular e Spring Boot. Permite cadastrar produtos, real
 
 ---
 
-Transformando ideias em código. Sempre aprendendo, sempre evoluindo.
+Transformando idéias em código. Sempre aprendendo, sempre evoluindo.
