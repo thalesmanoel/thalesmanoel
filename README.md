@@ -9,7 +9,6 @@ Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5515992717403&text&type=phone_number&app_absent=0)
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thalesmanoel&show_icons=true&theme=default&hide_border=true&hide_title=true" height="180" style="flex-shrink: 0;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmanoel&layout=compact&hide=html&theme=default&hide_border=true" height="180" style="flex-shrink: 0;" />
 </div>
 
