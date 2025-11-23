@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Thales Carrion 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec, com **experiência profissional em desenvolvimento de software**, incluindo criação de APIs RESTful, regras de negócio, autenticação de usuários e interfaces intuitivas. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec, com **experiência profissional em desenvolvimento de software**, incluindo criação de APIs RESTful, regras de negócio, autenticação de usuários e integrações com APIs externas. 
 
 Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar e ampliar minhas habilidades em Node.Js, TypeScript, Express, MongoDB e MySQL.
 
