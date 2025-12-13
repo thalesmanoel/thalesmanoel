@@ -24,13 +24,13 @@ Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar 
 
 ### 🌟 Meu projeto mais recente
 
-[![DoOS - Sistema de Gerenciamento de Ordens de Serviços](https://github-readme-stats.vercel.app/api/pin/?username=thalesmanoel&repo=doos-server&theme=default&hide_border=true)](https://github.com/thalesmanoel/store-management-system)
+[![DoOS - Sistema de Gerenciamento de Ordens de Serviços](https://github-readme-stats.vercel.app/api/pin/?username=thalesmanoel&repo=doos-server&theme=default&hide_border=true)](https://github.com/thalesmanoel/doos-server)
 
 🔧 **DoOS - Sistema de Gerenciamento de Ordens de Serviço**  
 Aplicação backend de um sistema centralizador de gestão de ordens de serviços para oficinas mecânicas
 
 **Tecnologias usadas:**  
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
