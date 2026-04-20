@@ -19,7 +19,7 @@ Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar 
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
- <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/Postgres-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br>
 
 ### 🌟 Meu projeto mais recente
