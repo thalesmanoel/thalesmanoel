@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec, com **experiência profissional em desenvolvimento de software**, incluindo criação de APIs RESTful, regras de negócio, autenticação de usuários e integrações com APIs externas. 
 
-Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar e ampliar minhas habilidades em Node.Js, TypeScript, Express, MongoDB e MySQL.
+Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar e ampliar minhas habilidades em Node.Js, TypeScript, Express.js, NestJS, PostgreSQL e MongoDB.
 
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-carrion/)
