@@ -8,9 +8,12 @@ Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-carrion/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5515992717403&text&type=phone_number&app_absent=0)
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesmanoel&layout=compact&hide=html&theme=default&hide_border=true" height="180" style="flex-shrink: 0;" />
-</div>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=thalesmanoel&layout=compact&hide=html&theme=default&hide_border=true"
+  height="180"
+  style="flex-shrink: 0;"
+  alt="Top Languages"
+/>
 
 ## Tecnologias que eu utilizo
 
@@ -24,7 +27,7 @@ Além disso, pratico diversos **projetos pessoais**, que me ajudam a consolidar 
 
 ### 🌟 Meu projeto mais recente
 
-[![DoOS - Sistema de Gerenciamento de Ordens de Serviços](https://github-readme-stats.vercel.app/api/pin/?username=thalesmanoel&repo=doos-server&theme=default&hide_border=true)](https://github.com/thalesmanoel/doos-server)
+[![DoOS - Sistema de Gerenciamento de Ordens de Serviços](https://github-stats-extended.vercel.app/api/pin/?username=thalesmanoel&repo=doos-server&theme=default&hide_border=true)](https://github.com/thalesmanoel/doos-server)
 
 🔧 **DoOS - Sistema de Gerenciamento de Ordens de Serviço**  
 Aplicação backend de um sistema centralizador de gestão de ordens de serviços para oficinas mecânicas
